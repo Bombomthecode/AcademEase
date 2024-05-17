@@ -1,0 +1,22 @@
+[u]System Name[/u]: [b]AcademEase[/b]
+[u]Version[/u]: [b]1.1.0[/b]
+[u]Developers[/u]: [b] Asilanom Rice C. Senday, Wxyzen C. Hermosilla [/b]
+[u]Project[/u]: [b]Capstone Group 9
+ Members:
+  Cidro, Marietth Halley S.
+  Dela Torre, Ma. Rocela M.
+  Hermosilla, Wxyzen C.
+  Prado, Chen-Xi R.
+  Sinel, Jan Nino O.[/b]
+
+_____________________________________________
+This system helps you to keep track of your
+daily, weekly, monthly, and yearly tasks in order to manage
+and optimize your time more efficiently.
+The system lets you set notification
+remainder on basis of priority set by you, 
+you can use it as a personal diary to
+ write your daily notes and much more... 
+AcademEase come with built in
+password protection for your private notes.
+_____________________________________________
